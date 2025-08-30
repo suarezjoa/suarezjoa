@@ -16,8 +16,7 @@
 - :school: I am a `Junior` DevOps
 - 🎓 **Sistem engineer**
 - :technologist: **Currently working on** `SRE - DevOps - infra`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](joa:gnoattosuarezjoaquin@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :email: Feel free to **reach me out**
 
   <code><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="a"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="a"></code>
