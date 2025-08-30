@@ -1,16 +1,26 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**suarezjoa/suarezjoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Ingeniero en Sistemas y DevOps** enfocado en construir infraestructuras confiables y automatizadas. Me apasiona la observabilidad, la automatización de despliegues y el monitoreo de aplicaciones.
 
-Here are some ideas to get you started:
+### 🛠️ Herramientas & Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kubernetes, Rancher
+- Docker, Nginx
+- Google Cloud Platform
+- Azure DevOps (CI/CD)
+- IIS
+- AWK & scripts shell
+- SQL & MySQL
+- Grafana, Prometheus, Loki
+- Discord & Trello para colaboración
+
+### 📈 Intereses
+
+- Arquitecturas de microservicios
+- Automatización de infraestructuras
+- Monitoreo y observabilidad
+
+### 📫 Contacto
+
+Encuéntrame aquí en GitHub para colaborar en proyectos o compartir ideas.
+
