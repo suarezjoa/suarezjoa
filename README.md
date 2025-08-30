@@ -14,8 +14,11 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Junior` DevOps
+  
 - 🎓 **Sistem engineer**
+  
 - :technologist: **Currently working on** `SRE - DevOps - infra`
+  
 - :email: Feel free to **reach me out**
 
 
