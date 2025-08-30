@@ -22,5 +22,3 @@ Soy un **Ingeniero en Sistemas y DevOps** enfocado en construir infraestructuras
 
 ### 📫 Contacto
 
-Encuéntrame aquí en GitHub para colaborar en proyectos o compartir ideas.
-
